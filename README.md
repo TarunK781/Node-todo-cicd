@@ -1,13 +1,19 @@
+# node-todo-cicd
 
-<h1> || Manual Concept For running application || </h1>
+Run these commands:
 
-sudo apt install nodejs
 
-sudo apt install npm
+`sudo apt install nodejs`
 
-npm install
 
-node app.js
+`sudo apt install npm`
 
-Expose In port 8000....
+
+`npm install`
+
+`node app.js`
+
+or Run by docker compose
+
+test
 
